@@ -1,4 +1,4 @@
 @Component
 script NewComponent extends Component
-
+		property any NewValue = nil
 end
