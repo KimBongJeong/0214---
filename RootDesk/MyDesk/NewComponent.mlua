@@ -1,0 +1,4 @@
+@Component
+script NewComponent extends Component
+
+end
