@@ -1,4 +1,5 @@
 @Component
 script NewComponent extends Component
 		property any NewValue = nil
+		property number 2002 = 0
 end
